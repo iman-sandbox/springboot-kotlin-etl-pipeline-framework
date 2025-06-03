@@ -1,0 +1,5 @@
+com.example.etlspringautomation.config.PipelineProperties
+com.example.etlspringautomation.config.KafkaConfig
+com.example.etlspringautomation.elastic.ElasticConfig
+com.example.etlspringautomation.scheduler.SchedulerConfig
+com.example.etlspringautomation.services.MonitoringConfig
